@@ -14,5 +14,8 @@ La base de datos se ha diseñado para satisfacer las necesidades específicas de
 - Gamas de Productos: Categoriza los productos en diferentes categorías, como "Ramo Grande", "Ramo extra-grande", etc.
 - Pagos: Registra las ventas realizadas a los clientes, incluyendo el producto vendido y la cantidad pagada.
 
+### Note
+Algunas tablas fueron modificadas desde su vista de schemas, y no desde el código. Por lo tanto, si desea que funcioné mejor, utilice las tablas de la carpeta Dump ubicada en src.
+
 ### Modelo ER
 ![jardineriamodelofinal](https://github.com/Sof-Saos/Workshop-BD/assets/74073693/47f74674-21a8-4fa0-89c7-2281f72cc2ea)
