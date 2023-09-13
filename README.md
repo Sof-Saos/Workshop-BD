@@ -11,8 +11,8 @@ La base de datos se ha diseñado para satisfacer las necesidades específicas de
 - Jefes: Contiene la información sobre los jefes de los empleados de la jardineria.
 - Oficinas: Contiene la información de las oficinas de la jardineria en diferentes ciudades y paises. 
 - Productos: Controla el inventario de flores disponible en la tienda.
-Gamas de Productos: Categoriza los productos en diferentes categorías, como "amo Grande", "Ramo extra-grande", etc.
-Pagos: Registra las ventas realizadas a los clientes, incluyendo el producto vendido y la cantidad pagada.
+- Gamas de Productos: Categoriza los productos en diferentes categorías, como "Ramo Grande", "Ramo extra-grande", etc.
+- Pagos: Registra las ventas realizadas a los clientes, incluyendo el producto vendido y la cantidad pagada.
 
 ### Modelo ER
 ![jardineriamodelofinal](https://github.com/Sof-Saos/Workshop-BD/assets/74073693/47f74674-21a8-4fa0-89c7-2281f72cc2ea)
